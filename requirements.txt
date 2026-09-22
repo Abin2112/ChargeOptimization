@@ -1,0 +1,12 @@
+folium==0.20.0
+geopandas==0.14.4
+matplotlib==3.9.4
+networkx==3.2.1
+numpy==1.26.4
+osmnx==1.9.4
+pandas==2.2.3
+plotly==7.1.0
+PuLP==3.3.1
+scikit-learn==1.6.1
+scipy==1.13.1
+shapely==2.0.7
